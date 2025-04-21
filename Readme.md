@@ -5,9 +5,7 @@ This project uses a machine learning model to predict house prices based on vari
 ## Technologies
 
 - **Python**: Programming language used for the backend and machine learning.
-- **Flask**: Web framework for handling HTTP requests.
 - **scikit-learn**: Library for machine learning, specifically for training the linear regression model.
-- **HTML/CSS/JavaScript**: Frontend technologies for creating the user interface.
 
 ## Installation
 
@@ -15,7 +13,7 @@ This project uses a machine learning model to predict house prices based on vari
 
 Ensure you have Python and pip installed on your system. You will also need to install the following Python libraries:
 
-- `Flask`
+
 - `scikit-learn`
 - `pandas`
 - `numpy`
