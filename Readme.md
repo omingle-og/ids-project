@@ -1,6 +1,6 @@
 # Simple-House-Price-Prediction-using-Machine-Learning
 
-This project uses a machine learning model to predict house prices based on various features. The backend is powered by Python and Flask, while the frontend is built using HTML, CSS, and JavaScript.
+This project uses a machine learning model to predict house prices based on various features. The backend is powered by Python.
 
 ## Technologies
 
