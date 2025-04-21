@@ -31,26 +31,3 @@ git clone https://github.com/omingle-og/ids-project
 cd ids-project
 ```
 
-### Install Required Libraries
-
-Install the necessary libraries with:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Running the Application
-
-### Start the Flask Server
-
-Launch the Flask server using:
-
-```bash
-python app.py
-```
-
-The server will start and listen on [http://127.0.0.1:4000/](http://127.0.0.1:4000/).
-
-### Using the HTML Form
-
-Open your web browser and navigate to [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Enter the required values into the form to get the predicted house price.
